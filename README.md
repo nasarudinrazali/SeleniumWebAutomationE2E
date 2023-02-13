@@ -30,7 +30,8 @@ mvn test -Dbrowser=Firefox
 **To run on Browserstack:**
 
 Precondition: You must input your BrowserStack username and accesskey in Capabilities class.
-Then give this command:
+
+Give this command:
 
 mvn test -Dbrowser=cloudtest
 
