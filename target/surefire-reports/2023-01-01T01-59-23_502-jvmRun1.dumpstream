@@ -1,0 +1,11 @@
+# Created at 2023-01-01T01:59:26.958
+Illegal type at constant pool entry 37 in class Selenium.tests.Listeners
+Exception Details:
+  Location:
+    Selenium/tests/Listeners.onTestFailedButWithinSuccessPercentage(Lorg/testng/ITestResult;)V @2: invokespecial
+  Reason:
+    Constant pool index 37 is invalid
+  Bytecode:
+    0000000: 2a2b b700 25b1                         
+
+

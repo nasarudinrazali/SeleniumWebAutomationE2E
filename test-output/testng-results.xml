@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-13T20:07:25 SGT" name="Default suite" finished-at="2023-02-13T20:07:43 SGT" duration-ms="18106">
+    <groups>
+    </groups>
+    <test started-at="2023-02-13T20:07:25 SGT" name="Default test" finished-at="2023-02-13T20:07:43 SGT" duration-ms="18106">
+      <class name="Selenium.tests.endToEnd">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:Selenium.tests.endToEnd@2e3967ea]" started-at="2023-02-13T20:07:25 SGT" name="launchApplication" finished-at="2023-02-13T20:07:33 SGT" duration-ms="8483" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="emailValidation(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Selenium.tests.endToEnd@2e3967ea]" started-at="2023-02-13T20:07:33 SGT" name="emailValidation" data-provider="getData" finished-at="2023-02-13T20:07:42 SGT" duration-ms="9235" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[customer@practicesoftwaretesting.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[welcome01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Hammer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Selenium.tests.endToEnd@2e3967ea]" started-at="2023-02-13T20:07:42 SGT" name="tearDown" finished-at="2023-02-13T20:07:43 SGT" duration-ms="275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Selenium.tests.endToEnd -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
