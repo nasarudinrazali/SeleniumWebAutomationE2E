@@ -3,7 +3,7 @@
 
 **To run the E2E test:**
 
-Precondition: Java and Maven is installed in your system.
+Precondition: Java and Maven have been installed in your system.
 
 1)Download project
 
