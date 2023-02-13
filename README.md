@@ -1,4 +1,4 @@
-This is a web automation framework built using Java, Selenium, TestNG, Extent Reports and log4j.
+**This is a web automation framework built using Java, Selenium, TestNG, Extent Reports and log4j.**
 
 **To run the E2E test:**
 
@@ -23,8 +23,8 @@ You can view the result of the test on Extent reports in /reports folder
 
 **To run on Mozilla, give this command:**
 
-**
-To run on Browserstack:**
+
+**To run on Browserstack:**
 
 Precondition: You must input your BrowserStack username and accesskey in Capabilities class.
 Then give this command:
