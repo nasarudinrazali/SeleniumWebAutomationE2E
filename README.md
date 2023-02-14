@@ -3,7 +3,7 @@
 
 **To run the E2E test:**
 
-Precondition: Java and Maven have been installed in your system.
+Precondition: Java and Maven have been installed in your system. You also have to have Chromed driver and ensure the path of the driver is given in in/src/test/java/Selenium/testComponents/Base
 
 1)Download project
 
