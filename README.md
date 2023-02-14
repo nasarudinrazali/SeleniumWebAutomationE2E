@@ -15,15 +15,23 @@ Precondition: Java and Maven have been installed in your system.
 
 You can view the result of the test on Extent reports in /reports folder
 
-**To run in Chromeheadless mode, give this command:**
+**To run in Chromeheadless modegive this command:**
 
 mvn test -Dbrowser=Chromeheadless
 
-**To run on Edge, give this command:**
+**To run on Edge**
+
+1)Download Edge driver and give the path of the driver in Base class
+
+2)Give this command to run the test:
 
 mvn test -Dbrowser=Edge
 
-**To run on Firefox, give this command:**
+**To run on Firefox**
+
+1)Download Gecko driver and give the path of the driver in Base class
+
+2)Give this command to run the test:
 
 mvn test -Dbrowser=Firefox
 
