@@ -21,16 +21,14 @@ mvn test -Dbrowser=Chromeheadless
 
 **To run on Edge**
 
-1)Download Edge driver and give the path of the driver in Base class
-
+1)Download Edge driver and give the path of the driver in /src/test/java/Selenium/testComponents/Base
 2)Give this command to run the test:
 
 mvn test -Dbrowser=Edge
 
 **To run on Firefox**
 
-1)Download Gecko driver and give the path of the driver in Base class
-
+1)Download Gecko driver and give the path of the driver in /src/test/java/Selenium/testComponents/Base
 2)Give this command to run the test:
 
 mvn test -Dbrowser=Firefox
