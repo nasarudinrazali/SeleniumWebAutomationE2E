@@ -15,7 +15,7 @@ Precondition: Java and Maven have been installed in your system. You also have t
 
 You can view the result of the test on Extent reports in /reports folder
 
-**To run in Chromeheadless modegive this command:**
+**To run in Chromeheadless mode give this command:**
 
 mvn test -Dbrowser=Chromeheadless
 
